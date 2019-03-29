@@ -24,6 +24,6 @@
   "homepage": "https://github.com/gradybknight/connected-garden#readme",
   "dependencies": {
     "johnny-five": "^1.0.0",
-    "rasp-io": "^10.0.1"
+    "raspi-io": "^10.0.1"
   }
 }
